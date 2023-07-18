@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "name": "Marcelo",
+      "age": 23,
+      "careerId": 4,
+      "id": 2
+    },
+    {
+      "name": "Maria",
+      "age": 21,
+      "careerId": 5,
+      "id": 4
+    },
+    {
+      "name": "Maribel",
+      "age": 26,
+      "careerId": 3,
+      "id": 7
+    },
+    {
+      "name": "Jorge",
+      "age": 24,
+      "careerId": 1,
+      "id": 8
+    }
+  ],
+  "careers": [
+    {
+      "id": 1,
+      "name": "Sistemas",
+      "duration": 6
+    },
+    {
+      "id": 2,
+      "name": "Industrial",
+      "duration": 6
+    },
+    {
+      "id": 3,
+      "name": "Arquitectura",
+      "duration": 6
+    },
+    {
+      "id": 4,
+      "name": "Administración",
+      "duration": 6
+    },
+    {
+      "id": 5,
+      "name": "Química",
+      "duration": 6
+    },
+    {
+      "name": "Filosofia",
+      "duration": 5,
+      "id": 6
+    },
+    {
+      "name": "Fisica",
+      "duration": 9,
+      "id": 7
+    },
+    {
+      "name": "Ciencias de la computacion",
+      "duration": 8,
+      "id": 8
+    },
+    {
+      "name": "Psicologia",
+      "duration": 6,
+      "id": 9
+    }
+  ]
+}
